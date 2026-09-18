@@ -2,7 +2,7 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:07a0fe055844e2be27fcadb3b43d541b293c2f149a59ccc6d6299deb08ee4f2c"
+      "hash": "SHA256:73bc5907c3ca4afb095263e7d18403e1315d202aeac96d9d96e7999923fb7a37"
     }
   },
   "name": "Skyles's Public Library",

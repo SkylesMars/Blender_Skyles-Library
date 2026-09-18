@@ -9,27 +9,5 @@
       "hash": "SHA256:f6c8c06a795f995dc28061015821991c5c01e57f7a4d1ec6bce3b56aa707c962"
     }
   ],
-  "catalogs": [
-    {
-      "path": "Texture",
-      "uuids": [
-        "c612e02b-083f-4c8e-a517-15d48d23371a"
-      ],
-      "simple_name": "Texture"
-    },
-    {
-      "path": "Utilities",
-      "uuids": [
-        "2f361fc4-21a2-414f-8a8f-a5775662bde7"
-      ],
-      "simple_name": "Utilities"
-    },
-    {
-      "path": "Worlds",
-      "uuids": [
-        "bade4096-1de7-4993-8e4d-998f19ef0d5f"
-      ],
-      "simple_name": "Worlds"
-    }
-  ]
+  "catalogs": []
 }
