@@ -6,13 +6,13 @@
       "name": "Default HDRIs",
       "id_type": "NODETREE",
       "files": [
-        "HDRIs/Default HDRIs/Default HDRIs.blend"
+        "Default HDRIs.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "HDRIs/Default%20HDRIs/Default%20HDRIs_thumbnails/Nodetree/default-hdris.webp",
+        "url": "Default%20HDRIs_thumbnails/Nodetree/default-hdris.webp",
         "hash": "SHA256:cd6dc5fbbf019176aaf1e0d16aec44336f797aab8399a1a41ed1107339f78836"
       },
       "meta": {
@@ -39,13 +39,13 @@
       "name": "Edge Mask",
       "id_type": "NODETREE",
       "files": [
-        "Shader Nodes/Edge Mask/Edge Mask.blend"
+        "Edge Mask.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "Shader%20Nodes/Edge%20Mask/Edge%20Mask_thumbnails/Nodetree/edge-mask.webp",
+        "url": "Edge%20Mask_thumbnails/Nodetree/edge-mask.webp",
         "hash": "SHA256:01038a5228b833747084ed690f9bf862b9be8b2582740a9663692bd82291df6d"
       },
       "meta": {
@@ -71,13 +71,13 @@
       "name": "Painterly Voronoi Texture",
       "id_type": "NODETREE",
       "files": [
-        "Shader Nodes/Painterly Voronoi/Painterly Voronoi.blend"
+        "Painterly Voronoi.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "Shader%20Nodes/Painterly%20Voronoi/Painterly%20Voronoi_thumbnails/Nodetree/painterly-voronoi-texture.webp",
+        "url": "Painterly%20Voronoi_thumbnails/Nodetree/painterly-voronoi-texture.webp",
         "hash": "SHA256:ce335fe8931847080337cca0f89e87e70fa066928415fb4e7e593bdd3ced3596"
       },
       "meta": {
@@ -102,25 +102,25 @@
   ],
   "files": [
     {
-      "path": "HDRIs/Default HDRIs/Default HDRIs.blend",
+      "path": "Default HDRIs.blend",
       "size_in_bytes": 2249615,
       "hash": "SHA256:7ee2256a10f29355a6a632d5c44bce8ea43268f64e826678b63e4340c4ce6dea",
       "blender_version": "5.2.45",
-      "url": "HDRIs/Default%20HDRIs/Default%20HDRIs.blend"
+      "url": "Default%20HDRIs.blend"
     },
     {
-      "path": "Shader Nodes/Edge Mask/Edge Mask.blend",
+      "path": "Edge Mask.blend",
       "size_in_bytes": 1416454,
       "hash": "SHA256:0239341bdc44836c28bdd8db47e90d4aa5fe5861a5b1501280a3beb5b7f1ffcb",
       "blender_version": "5.2.45",
-      "url": "Shader%20Nodes/Edge%20Mask/Edge%20Mask.blend"
+      "url": "Edge%20Mask.blend"
     },
     {
-      "path": "Shader Nodes/Painterly Voronoi/Painterly Voronoi.blend",
+      "path": "Painterly Voronoi.blend",
       "size_in_bytes": 2014555,
       "hash": "SHA256:b784aa8b3c9cc327829fd58ced4e87dec5a010da88170eb0690940c9f2d81570",
       "blender_version": "5.2.45",
-      "url": "Shader%20Nodes/Painterly%20Voronoi/Painterly%20Voronoi.blend"
+      "url": "Painterly%20Voronoi.blend"
     }
   ]
 }
