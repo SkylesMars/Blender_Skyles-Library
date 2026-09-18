@@ -49,7 +49,7 @@
         "hash": "SHA256:01038a5228b833747084ed690f9bf862b9be8b2582740a9663692bd82291df6d"
       },
       "meta": {
-        "catalog_id": "a8407fc7-6ed2-4b72-a212-2b162bff2cba",
+        "catalog_id": "97f22dd6-e458-48a5-90e1-dab086a91e8a",
         "tags": [
           "Edge",
           "Edge Wear",
@@ -81,7 +81,7 @@
         "hash": "SHA256:ce335fe8931847080337cca0f89e87e70fa066928415fb4e7e593bdd3ced3596"
       },
       "meta": {
-        "catalog_id": "561126c6-e7f0-4c16-8352-42ee9093b487",
+        "catalog_id": "5da9193f-b963-4df4-8155-70f504ab73a4",
         "tags": [
           "Paint",
           "Texture",
@@ -110,15 +110,15 @@
     },
     {
       "path": "Shader Nodes/Edge Mask/Edge Mask.blend",
-      "size_in_bytes": 1418113,
-      "hash": "SHA256:8fea03b04442d72033871120a06c8f99898814809b8280918d7d3b9c90311583",
+      "size_in_bytes": 1416930,
+      "hash": "SHA256:32677c01856504dce7c36453e80302013c4758a07e1379a5a98479425bd91876",
       "blender_version": "5.2.45",
       "url": "Shader%20Nodes/Edge%20Mask/Edge%20Mask.blend"
     },
     {
       "path": "Shader Nodes/Painterly Voronoi/Painterly Voronoi.blend",
-      "size_in_bytes": 2013361,
-      "hash": "SHA256:2b9d7bbce651c5e1d610b8a1bb65424786507435daa824d17775cf26bd05787b",
+      "size_in_bytes": 2014711,
+      "hash": "SHA256:03abb16ddb5900c18a0f8d9d601b6cb4a9814f80cc283bb38f385eb510aac6fa",
       "blender_version": "5.2.45",
       "url": "Shader%20Nodes/Painterly%20Voronoi/Painterly%20Voronoi.blend"
     }

@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 5683829,
+  "asset_size_bytes": 5683996,
   "asset_count": 3,
   "file_count": 3,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:6cf308a734f7295a632d02aa74721d0b0158a641e06ec83d755b1677bc150e2b"
+      "hash": "SHA256:7fa697a58d1ece4b5b94fad099ebb327728a3f71499a00af7ec93f93397535bb"
     }
   ],
   "catalogs": []
