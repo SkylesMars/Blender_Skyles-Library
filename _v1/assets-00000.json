@@ -1,0 +1,126 @@
+{
+  "asset_count": 3,
+  "file_count": 3,
+  "assets": [
+    {
+      "name": "Default HDRIs",
+      "id_type": "NODETREE",
+      "files": [
+        "HDRIs/Default HDRIs/Default HDRIs.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "HDRIs/Default%20HDRIs/Default%20HDRIs_thumbnails/Nodetree/default-hdris.webp",
+        "hash": "SHA256:cd6dc5fbbf019176aaf1e0d16aec44336f797aab8399a1a41ed1107339f78836"
+      },
+      "meta": {
+        "catalog_id": "44161881-8c31-4fc2-9d8b-6a6b1ed6e455",
+        "tags": [
+          "HDRI",
+          "Image",
+          "World",
+          "Environment",
+          "Texture"
+        ],
+        "author": "Skyles",
+        "description": "Group containing all default HDRIs used by default in the blender viewport preview",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Edge Mask",
+      "id_type": "NODETREE",
+      "files": [
+        "Shader Nodes/Edge Mask/Edge Mask.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Shader%20Nodes/Edge%20Mask/Edge%20Mask_thumbnails/Nodetree/edge-mask.webp",
+        "hash": "SHA256:01038a5228b833747084ed690f9bf862b9be8b2582740a9663692bd82291df6d"
+      },
+      "meta": {
+        "catalog_id": "a8407fc7-6ed2-4b72-a212-2b162bff2cba",
+        "tags": [
+          "Edge",
+          "Edge Wear",
+          "Bevel",
+          "Texture"
+        ],
+        "author": "Skyles",
+        "description": "Edge detection for edge wear node setups",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Painterly Voronoi Texture",
+      "id_type": "NODETREE",
+      "files": [
+        "Shader Nodes/Painterly Voronoi/Painterly Voronoi.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Shader%20Nodes/Painterly%20Voronoi/Painterly%20Voronoi_thumbnails/Nodetree/painterly-voronoi-texture.webp",
+        "hash": "SHA256:ce335fe8931847080337cca0f89e87e70fa066928415fb4e7e593bdd3ced3596"
+      },
+      "meta": {
+        "catalog_id": "561126c6-e7f0-4c16-8352-42ee9093b487",
+        "tags": [
+          "Paint",
+          "Texture",
+          "Voronoi",
+          "Painterly",
+          "NPR"
+        ],
+        "description": "Voronoi distorted by a noise texture to create a brush stroke look",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "HDRIs/Default HDRIs/Default HDRIs.blend",
+      "size_in_bytes": 2252355,
+      "hash": "SHA256:cabfa6e3dd559538bddb1ad58ae218cbbefc3d2a749426fc077e383254c511a7",
+      "blender_version": "5.2.45",
+      "url": "HDRIs/Default%20HDRIs/Default%20HDRIs.blend"
+    },
+    {
+      "path": "Shader Nodes/Edge Mask/Edge Mask.blend",
+      "size_in_bytes": 1418113,
+      "hash": "SHA256:8fea03b04442d72033871120a06c8f99898814809b8280918d7d3b9c90311583",
+      "blender_version": "5.2.45",
+      "url": "Shader%20Nodes/Edge%20Mask/Edge%20Mask.blend"
+    },
+    {
+      "path": "Shader Nodes/Painterly Voronoi/Painterly Voronoi.blend",
+      "size_in_bytes": 2013361,
+      "hash": "SHA256:2b9d7bbce651c5e1d610b8a1bb65424786507435daa824d17775cf26bd05787b",
+      "blender_version": "5.2.45",
+      "url": "Shader%20Nodes/Painterly%20Voronoi/Painterly%20Voronoi.blend"
+    }
+  ]
+}
