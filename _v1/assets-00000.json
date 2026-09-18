@@ -16,7 +16,7 @@
         "hash": "SHA256:cd6dc5fbbf019176aaf1e0d16aec44336f797aab8399a1a41ed1107339f78836"
       },
       "meta": {
-        "catalog_id": "44161881-8c31-4fc2-9d8b-6a6b1ed6e455",
+        "catalog_id": "bade4096-1de7-4993-8e4d-998f19ef0d5f",
         "tags": [
           "HDRI",
           "Image",
@@ -49,7 +49,7 @@
         "hash": "SHA256:01038a5228b833747084ed690f9bf862b9be8b2582740a9663692bd82291df6d"
       },
       "meta": {
-        "catalog_id": "97f22dd6-e458-48a5-90e1-dab086a91e8a",
+        "catalog_id": "2f361fc4-21a2-414f-8a8f-a5775662bde7",
         "tags": [
           "Edge",
           "Edge Wear",
@@ -81,7 +81,7 @@
         "hash": "SHA256:ce335fe8931847080337cca0f89e87e70fa066928415fb4e7e593bdd3ced3596"
       },
       "meta": {
-        "catalog_id": "5da9193f-b963-4df4-8155-70f504ab73a4",
+        "catalog_id": "c612e02b-083f-4c8e-a517-15d48d23371a",
         "tags": [
           "Paint",
           "Texture",
@@ -103,22 +103,22 @@
   "files": [
     {
       "path": "HDRIs/Default HDRIs/Default HDRIs.blend",
-      "size_in_bytes": 2252355,
-      "hash": "SHA256:cabfa6e3dd559538bddb1ad58ae218cbbefc3d2a749426fc077e383254c511a7",
+      "size_in_bytes": 2249615,
+      "hash": "SHA256:7ee2256a10f29355a6a632d5c44bce8ea43268f64e826678b63e4340c4ce6dea",
       "blender_version": "5.2.45",
       "url": "HDRIs/Default%20HDRIs/Default%20HDRIs.blend"
     },
     {
       "path": "Shader Nodes/Edge Mask/Edge Mask.blend",
-      "size_in_bytes": 1416930,
-      "hash": "SHA256:32677c01856504dce7c36453e80302013c4758a07e1379a5a98479425bd91876",
+      "size_in_bytes": 1416454,
+      "hash": "SHA256:0239341bdc44836c28bdd8db47e90d4aa5fe5861a5b1501280a3beb5b7f1ffcb",
       "blender_version": "5.2.45",
       "url": "Shader%20Nodes/Edge%20Mask/Edge%20Mask.blend"
     },
     {
       "path": "Shader Nodes/Painterly Voronoi/Painterly Voronoi.blend",
-      "size_in_bytes": 2014711,
-      "hash": "SHA256:03abb16ddb5900c18a0f8d9d601b6cb4a9814f80cc283bb38f385eb510aac6fa",
+      "size_in_bytes": 2014555,
+      "hash": "SHA256:b784aa8b3c9cc327829fd58ced4e87dec5a010da88170eb0690940c9f2d81570",
       "blender_version": "5.2.45",
       "url": "Shader%20Nodes/Painterly%20Voronoi/Painterly%20Voronoi.blend"
     }
