@@ -6,13 +6,13 @@
       "name": "Object Instancer",
       "id_type": "NODETREE",
       "files": [
-        "Geometry Nodes/Object Instancer/Object Instancer.blend"
+        "Assets/Geometry Nodes/Object Instancer/Object Instancer.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "Geometry%20Nodes/Object%20Instancer/Object%20Instancer_thumbnails/Nodetree/object-instancer.webp",
+        "url": "Assets/Geometry%20Nodes/Object%20Instancer/Object%20Instancer_thumbnails/Nodetree/object-instancer.webp",
         "hash": "SHA256:99d6616ef36d4f94362e0cd32768e6bb71d5337032b3d25973cbc9ea06fda20a"
       },
       "meta": {
@@ -42,13 +42,13 @@
       "name": "Edge Mask",
       "id_type": "NODETREE",
       "files": [
-        "Shader Nodes/Edge Mask/Edge Mask.blend"
+        "Assets/Shader Nodes/Edge Mask/Edge Mask.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "Shader%20Nodes/Edge%20Mask/Edge%20Mask_thumbnails/Nodetree/edge-mask.webp",
+        "url": "Assets/Shader%20Nodes/Edge%20Mask/Edge%20Mask_thumbnails/Nodetree/edge-mask.webp",
         "hash": "SHA256:01038a5228b833747084ed690f9bf862b9be8b2582740a9663692bd82291df6d"
       },
       "meta": {
@@ -74,13 +74,13 @@
       "name": "Painterly Voronoi Texture",
       "id_type": "NODETREE",
       "files": [
-        "Shader Nodes/Painterly Voronoi/Painterly Voronoi.blend"
+        "Assets/Shader Nodes/Painterly Voronoi/Painterly Voronoi.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "Shader%20Nodes/Painterly%20Voronoi/Painterly%20Voronoi_thumbnails/Nodetree/painterly-voronoi-texture.webp",
+        "url": "Assets/Shader%20Nodes/Painterly%20Voronoi/Painterly%20Voronoi_thumbnails/Nodetree/painterly-voronoi-texture.webp",
         "hash": "SHA256:ce335fe8931847080337cca0f89e87e70fa066928415fb4e7e593bdd3ced3596"
       },
       "meta": {
@@ -105,25 +105,25 @@
   ],
   "files": [
     {
-      "path": "Geometry Nodes/Object Instancer/Object Instancer.blend",
+      "path": "Assets/Geometry Nodes/Object Instancer/Object Instancer.blend",
       "size_in_bytes": 394685,
       "hash": "SHA256:7499c054a7e395d5c0389c840bf1b9d14e6b9f639b278e9254d332fadd48b181",
       "blender_version": "5.2.45",
-      "url": "Geometry%20Nodes/Object%20Instancer/Object%20Instancer.blend"
+      "url": "Assets/Geometry%20Nodes/Object%20Instancer/Object%20Instancer.blend"
     },
     {
-      "path": "Shader Nodes/Edge Mask/Edge Mask.blend",
+      "path": "Assets/Shader Nodes/Edge Mask/Edge Mask.blend",
       "size_in_bytes": 1416616,
       "hash": "SHA256:6ddb97758b431e0aa5425deeec288e3089208cc3939d4ccd081fee2124695cda",
       "blender_version": "5.2.45",
-      "url": "Shader%20Nodes/Edge%20Mask/Edge%20Mask.blend"
+      "url": "Assets/Shader%20Nodes/Edge%20Mask/Edge%20Mask.blend"
     },
     {
-      "path": "Shader Nodes/Painterly Voronoi/Painterly Voronoi.blend",
+      "path": "Assets/Shader Nodes/Painterly Voronoi/Painterly Voronoi.blend",
       "size_in_bytes": 2013956,
       "hash": "SHA256:a8bb48b91c722c7bda4aad5c8dbca76b8bf0217056dc43b71235efe527033fbe",
       "blender_version": "5.2.45",
-      "url": "Shader%20Nodes/Painterly%20Voronoi/Painterly%20Voronoi.blend"
+      "url": "Assets/Shader%20Nodes/Painterly%20Voronoi/Painterly%20Voronoi.blend"
     }
   ]
 }
