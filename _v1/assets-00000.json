@@ -6,13 +6,13 @@
       "name": "Object Instancer",
       "id_type": "NODETREE",
       "files": [
-        "Geometry Nodes/Object Instancer/Instancer.blend"
+        "Geometry Nodes/Object Instancer/Object Instancer.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "Geometry%20Nodes/Object%20Instancer/Instancer_thumbnails/Nodetree/object-instancer.webp",
+        "url": "Geometry%20Nodes/Object%20Instancer/Object%20Instancer_thumbnails/Nodetree/object-instancer.webp",
         "hash": "SHA256:99d6616ef36d4f94362e0cd32768e6bb71d5337032b3d25973cbc9ea06fda20a"
       },
       "meta": {
@@ -105,11 +105,11 @@
   ],
   "files": [
     {
-      "path": "Geometry Nodes/Object Instancer/Instancer.blend",
-      "size_in_bytes": 396619,
-      "hash": "SHA256:3b43a8e0e4c66639bf438c3502bc3028e293d768c8470c2327070a0c0de49f31",
+      "path": "Geometry Nodes/Object Instancer/Object Instancer.blend",
+      "size_in_bytes": 394685,
+      "hash": "SHA256:7499c054a7e395d5c0389c840bf1b9d14e6b9f639b278e9254d332fadd48b181",
       "blender_version": "5.2.45",
-      "url": "Geometry%20Nodes/Object%20Instancer/Instancer.blend"
+      "url": "Geometry%20Nodes/Object%20Instancer/Object%20Instancer.blend"
     },
     {
       "path": "Shader Nodes/Edge Mask/Edge Mask.blend",

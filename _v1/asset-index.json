@@ -1,21 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 3827191,
+  "asset_size_bytes": 3825257,
   "asset_count": 3,
   "file_count": 3,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:ee7fe114ccb0a1705927916b8932767acc5bcb641a1948c4ba9ac2f95bfc8da1"
+      "hash": "SHA256:be3b87afde70e9982483475ce6567d0e64a8d97c893a611c480d48e623ac2cdc"
     }
   ],
   "catalogs": [
     {
-      "path": "Instances",
+      "path": "Geometry Nodes",
+      "uuids": [
+        "702499dd-066d-4b94-94e9-428551080b63"
+      ],
+      "simple_name": "Geometry Nodes"
+    },
+    {
+      "path": "Geometry Nodes/Instances",
       "uuids": [
         "3dc598f8-5c36-474c-a7c4-9a6128b99526"
       ],
-      "simple_name": "Instances"
+      "simple_name": "Geometry Nodes-Instances"
     },
     {
       "path": "Texture",
