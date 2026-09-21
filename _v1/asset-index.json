@@ -11,18 +11,11 @@
   ],
   "catalogs": [
     {
-      "path": "Geometry Nodes",
-      "uuids": [
-        "702499dd-066d-4b94-94e9-428551080b63"
-      ],
-      "simple_name": "Geometry Nodes"
-    },
-    {
-      "path": "Geometry Nodes/Instances",
+      "path": "Instances",
       "uuids": [
         "3dc598f8-5c36-474c-a7c4-9a6128b99526"
       ],
-      "simple_name": "Geometry Nodes-Instances"
+      "simple_name": "Instances"
     },
     {
       "path": "Texture",

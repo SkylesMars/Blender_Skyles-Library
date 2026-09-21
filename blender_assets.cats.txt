@@ -6,7 +6,6 @@
 
 VERSION 1
 
-702499dd-066d-4b94-94e9-428551080b63:Geometry Nodes:Geometry Nodes
-3dc598f8-5c36-474c-a7c4-9a6128b99526:Geometry Nodes/Instances:Geometry Nodes-Instances
+3dc598f8-5c36-474c-a7c4-9a6128b99526:Instances:Instances
 74d7255c-7143-4f49-ae46-08b9df12d9bf:Texture:Texture
 5fa2e6bb-a533-44f5-ae98-ee678824ac0e:Utilities:Utilities
