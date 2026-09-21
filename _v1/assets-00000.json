@@ -1,7 +1,43 @@
 {
-  "asset_count": 2,
-  "file_count": 2,
+  "asset_count": 3,
+  "file_count": 3,
   "assets": [
+    {
+      "name": "Object Instancer",
+      "id_type": "NODETREE",
+      "files": [
+        "Geometry Nodes/Object Instancer/Instancer.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Geometry%20Nodes/Object%20Instancer/Instancer_thumbnails/Nodetree/object-instancer.webp",
+        "hash": "SHA256:99d6616ef36d4f94362e0cd32768e6bb71d5337032b3d25973cbc9ea06fda20a"
+      },
+      "meta": {
+        "catalog_id": "3dc598f8-5c36-474c-a7c4-9a6128b99526",
+        "tags": [
+          "Instance",
+          "Copy",
+          "Duplicate"
+        ],
+        "author": "Skyles",
+        "description": "Create instances of other objects",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 65
+          }
+        ]
+      }
+    },
     {
       "name": "Edge Mask",
       "id_type": "NODETREE",
@@ -69,6 +105,13 @@
   ],
   "files": [
     {
+      "path": "Geometry Nodes/Object Instancer/Instancer.blend",
+      "size_in_bytes": 396619,
+      "hash": "SHA256:3b43a8e0e4c66639bf438c3502bc3028e293d768c8470c2327070a0c0de49f31",
+      "blender_version": "5.2.45",
+      "url": "Geometry%20Nodes/Object%20Instancer/Instancer.blend"
+    },
+    {
       "path": "Shader Nodes/Edge Mask/Edge Mask.blend",
       "size_in_bytes": 1416616,
       "hash": "SHA256:6ddb97758b431e0aa5425deeec288e3089208cc3939d4ccd081fee2124695cda",
@@ -77,8 +120,8 @@
     },
     {
       "path": "Shader Nodes/Painterly Voronoi/Painterly Voronoi.blend",
-      "size_in_bytes": 2012757,
-      "hash": "SHA256:f2a2c7d749a3b75a14f18f42499e5058bd2aa57b38379c52cf38f9fe7ec77d3e",
+      "size_in_bytes": 2013956,
+      "hash": "SHA256:a8bb48b91c722c7bda4aad5c8dbca76b8bf0217056dc43b71235efe527033fbe",
       "blender_version": "5.2.45",
       "url": "Shader%20Nodes/Painterly%20Voronoi/Painterly%20Voronoi.blend"
     }

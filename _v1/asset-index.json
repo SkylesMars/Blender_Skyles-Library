@@ -1,15 +1,22 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 3429373,
-  "asset_count": 2,
-  "file_count": 2,
+  "asset_size_bytes": 3827191,
+  "asset_count": 3,
+  "file_count": 3,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:75ea86f83a074b1d5ee8c789493d0db34655fd26c9a70a4aa9af984eccc7fb77"
+      "hash": "SHA256:ee7fe114ccb0a1705927916b8932767acc5bcb641a1948c4ba9ac2f95bfc8da1"
     }
   ],
   "catalogs": [
+    {
+      "path": "Instances",
+      "uuids": [
+        "3dc598f8-5c36-474c-a7c4-9a6128b99526"
+      ],
+      "simple_name": "Instances"
+    },
     {
       "path": "Texture",
       "uuids": [
